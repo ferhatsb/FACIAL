@@ -1,9 +1,7 @@
-torch
-torchvision
 tqdm
 pandas
 numpy
-scipy == 1.2.0
+scipy
 chumpy
 scikit-image
 imageio
@@ -11,3 +9,4 @@ dominate
 torchfile
 ffmpeg
 python_speech_features
+opencv-python
