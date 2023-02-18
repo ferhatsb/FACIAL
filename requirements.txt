@@ -10,3 +10,4 @@ torchfile
 ffmpeg
 python_speech_features
 opencv-python
+deepspeech
