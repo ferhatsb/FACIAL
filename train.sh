@@ -87,9 +87,7 @@ train_face_to_vid(){
     cp -r $VIDEO_PREPROCESS_FOLDER/train1_image $DATA_FOLDER/face2vid/train_B
   fi
 
-#  rm -rf $DATA_FOLDER/face2vid/datasets/train3/test_A $DATA_FOLDER/face2vid/datasets/train3/test_B
-#  cp -r /content/FACIAL/examples/rendering/test1 /content/FACIAL/face2vid/datasets/train3/test_A
-#  cp -r /content/FACIAL/examples/rendering/test1 /content/FACIAL/face2vid/datasets/train3/test_B
+
   #  pip uninstall -y scipy
   #  pip install scipy==1.2.0
   cd $FACIAL_FOLDER/face2vid
